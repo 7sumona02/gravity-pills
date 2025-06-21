@@ -60,7 +60,7 @@ const Card = () => {
 
                     <motion.div 
                     initial={{
-                        opacity:0,
+                        opacity: 0,
                         scale: 0.98,
                         filter: 'blur(10px)'
                     }}
